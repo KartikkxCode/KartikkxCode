@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/KartikkxCode">
-    <img src="https://raw.githubusercontent.com/KartikkxCode/KartikkxCode/main/assets/banner.png" alt="Kartik Dahale's GitHub Banner" width="100%"/>
+    <img src="https://raw.githubusercontent.com/KartikkxCode/main/assets/banner.png" alt="Kartik Dahale's GitHub Banner" width="100%"/>
   </a>
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU2NHI3dzZ6aWJvYzl0NzE5eDR4Zjh0aXoxZDNzOHlwaGJuNWlxcCZlcD12MV9pbnRlcm5hbF9naWZfY2F0ZWdvcmlldmFmZWRyaXJkZmp4c2JzaW50b2V2YnZ3bHZpbW0vcmVjX2dpZmV0XzUxMWY5NTA3NzU3/qgQUV37rYpG1m/giphy.gif" width="50" style="margin-top: 20px;"/>
