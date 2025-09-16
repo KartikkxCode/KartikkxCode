@@ -40,7 +40,7 @@ I work with a diverse set of technologies, constantly expanding my toolkit:
   <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Automation"/>
   <img src="https://img.shields.io/badge/Cloud_Computing-F05032?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Computing"/>
 </div>
---
+
 
 ## 📌 Projects
 
