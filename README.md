@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 👨‍💻 Passionate about **AI, Automation, and Full-Stack Development**  
-- 🛠️ Skilled in **C, C++, Java, Python, JavaScript, TypeScript, Angular, React, Spring Boot**  
+- 🛠️ Skilled in **C, C++, Java, Python, JavaScript, Spring Boot**  
 - ⚙️ I enjoy solving **real-world problems with AI + Code + Creativity**  
 - 🌱 Currently exploring **Machine Learning, Cloud Computing, and Scalable Architectures**  
 - 🎓 Pursuing **M.Sc. Computer Science** at **Suryadatta College, Pune University**  
@@ -83,8 +83,8 @@
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Go  
-- **Frameworks & Tools:** Spring Boot, Angular, React, Node.js  
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Frameworks & Tools:** Spring Boot  
 - **Databases:** MySQL, MongoDB  
 - **Other Interests:** AI, Automation, Trading Bots, Image & Video Processing  
 
