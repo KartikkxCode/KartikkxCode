@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU2NHI3dzZ6aWJvYzl0NzE5eDR4Zjh0aXoxZDNzOHlwaGJuNWlxcCZlcD12MV9pbnRlcm5hbF9naWZfY2F0ZWdvcmlldmFmZWRyaXJkZmp4c2JzaW50b2V2YnZ3bHZpbW0vcmVjX2dpZmV0XzUxMWY5NTA3NzU3/qgQUV37rYpG1m/giphy.gif" width="100"/>
+  <img src="https://share.google/images/OjNsXQTw8tVymNeA7" width="100"/>
   <h1>👋 Hi, I'm Kartik Anilrao Dahale</h1>
   <p>
     💻 Software Developer | ⚡ AI & Automation Enthusiast | 🌐 Full-Stack Learner
