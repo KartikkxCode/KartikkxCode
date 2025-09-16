@@ -1,29 +1,31 @@
 <div align="center">
   <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="100"/>
-  <h1 align="center" style="
-  font-family: 'Poppins', sans-serif;
-  font-size: 3em;
-  background: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: 700;
-  margin: 20px 0;
-">
-  👋 Hi, I'm Kartik Anilrao Dahale
+  <h1 align="center">
+  <span style="
+    font-size: 2.8em;
+    font-weight: 800;
+    background: linear-gradient(90deg, #ff6b6b, #f9ca24, #6bcB77, #4d96ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  ">
+    👋 Hi, I'm Kartik Anilrao Dahale
+  </span>
 </h1>
 
-<p align="center" style="
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.2em;
-  color: #EAEAEA;
-  background: #111111;
-  display: inline-block;
-  padding: 10px 20px;
-  border-radius: 12px;
-  font-weight: 500;
-">
-  💻 Software Developer &nbsp;|&nbsp; ⚡ AI & Automation Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner
+<p align="center">
+  <span style="
+    font-size: 1.2em;
+    color: #444;
+    background: #f4f4f4;
+    padding: 8px 16px;
+    border-radius: 10px;
+    font-weight: 500;
+  ">
+    💻 Software Developer &nbsp;|&nbsp; ⚡ AI & Automation Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner
+  </span>
 </p>
+
 
 </div>
 
