@@ -3,11 +3,9 @@
   <h1 align="center">
   <span style="
     font-size: 2.8em;
-    font-weight: 800;
-    background: linear-gradient(90deg, #ff6b6b, #f9ca24, #6bcB77, #4d96ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
+    font-weight: 900;
+    color: #2c3e50;
+    font-family: Arial, Helvetica, sans-serif;
   ">
     👋 Hi, I'm Kartik Anilrao Dahale
   </span>
@@ -16,11 +14,11 @@
 <p align="center">
   <span style="
     font-size: 1.2em;
-    color: #444;
-    background: #f4f4f4;
-    padding: 8px 16px;
-    border-radius: 10px;
-    font-weight: 500;
+    color: #555;
+    background: #ecf0f1;
+    padding: 8px 18px;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, sans-serif;
   ">
     💻 Software Developer &nbsp;|&nbsp; ⚡ AI & Automation Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner
   </span>
