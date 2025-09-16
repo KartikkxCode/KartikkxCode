@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://share.google/images/OjNsXQTw8tVymNeA7" width="100"/>
+  <img src="[https://share.google/images/OjNsXQTw8tVymNeA7](https://pin.it/6bkOvHxjw)" width="100"/>
   <h1>👋 Hi, I'm Kartik Anilrao Dahale</h1>
   <p>
     💻 Software Developer | ⚡ AI & Automation Enthusiast | 🌐 Full-Stack Learner
