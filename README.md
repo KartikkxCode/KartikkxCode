@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[(https://github.com/KartikkxCode/KartikkxCode/blob/main/Gemini_Generated_Image_x5i2mjx5i2mjx5i2.png)](https://github.com/KartikkxCode/KartikkxCode/blob/main/Gemini_Generated_Image_x5i2mjx5i2mjx5i2.png)" width="100"/>
+  <img src="[(https://github.com/KartikkxCode/KartikkxCode/blob/main/Gemini_Generated_Image_x5i2mjx5i2mjx5i2.png)]" width="100"/>
   <h1>👋 Hi, I'm Kartik Anilrao Dahale</h1>
   <p>
     💻 Software Developer | ⚡ AI & Automation Enthusiast | 🌐 Full-Stack Learner
