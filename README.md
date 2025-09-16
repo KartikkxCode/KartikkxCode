@@ -1,102 +1,76 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#FF5733;">Kartik Anilrao Dahale</span></h1>
-
-<p align="center">
-  💻 Software Developer | ⚡ AI & Automation Enthusiast | 🌐 Full Stack Learner  
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU2NHI3dzZ6aWJvYzl0NzE5eDR4Zjh0aXoxZDNzOHlwaGJuNWlxcCZlcD12MV9pbnRlcm5hbF9naWZfY2F0ZWdvcmlldmFmZWRyaXJkZmp4c2JzaW50b2V2YnZ3bHZpbW0vcmVjX2dpZmV0XzUxMWY5NTA3NzU3/qgQUV37rYpG1m/giphy.gif" width="100"/>
+  <h1>👋 Hi, I'm Kartik Anilrao Dahale</h1>
+  <p>
+    💻 Software Developer | ⚡ AI & Automation Enthusiast | 🌐 Full-Stack Learner
+  </p>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Passionate about **AI, Automation, and Full-Stack Development**  
-- 🛠️ Skilled in **C, C++, Java, Python, JavaScript, Spring Boot**  
-- ⚙️ I enjoy solving **real-world problems with AI + Code + Creativity**  
-- 🌱 Currently exploring **Machine Learning, Cloud Computing, and Scalable Architectures**  
-- 🎓 Pursuing **M.Sc. Computer Science** at **Suryadatta College, Pune University**  
+- 👨‍💻 I'm a passionate **Software Developer** with a focus on **AI, Automation, and Full-Stack Development**.
+- 🛠️ I build creative solutions for **real-world problems** using code.
+- 🌱 Currently exploring **Machine Learning, Cloud Computing, and Scalable Architectures**.
+- 🎓 Pursuing an **M.Sc. in Computer Science** from Suryadatta College, Pune University.
+- 🔗 Check out my professional journey on [**LinkedIn**](https://www.linkedin.com/in/kartik-dahale-422462231).
 
 ---
 
-## 📌 Technical Projects
+## 📌 Projects
 
-### 🔹 EduTrack – Classroom & Student Management Portal  
-**Technology:** Java, Spring Boot, MongoDB, REST APIs  
-🔗 GitHub: [github.com/KartikkxCode/edutrack-portal](#)  
-- Developed a full-stack system for managing batches and student records  
-- Built CRUD operations using RESTful APIs and NoSQL database  
-- Designed a Java-based client interface for seamless interaction  
+### 🔹 **EduTrack – Classroom & Student Management Portal**
+- **Technology:** Java, Spring Boot, MongoDB, REST APIs
+- **Description:** Developed a full-stack system for managing batches and student records. The system utilizes RESTful APIs and a NoSQL database for efficient CRUD operations, with a Java-based client for seamless interaction.
+- **GitHub:** [github.com/KartikkxCode/edutrack-portal](https://github.com/KartikkxCode/edutrack-portal)
 
----
+### 🔹 **File Packer & Unpacker with Encryption**
+- **Technology:** Java, Encryption
+- **Description:** Engineered a robust file archiving utility that supports encryption and decryption. The tool preserves file metadata and features a user-friendly GUI built with Swing.
+- **GitHub:** [github.com/KartikkxCode/File-Packer-Unpacker](https://github.com/KartikkxCode/File-Packer-Unpacker)
 
-### 🔹 File Packer & Unpacker with Encryption  
-**Technology:** Java, Encryption  
-🔗 GitHub: [github.com/KartikkxCode/File-Packer-Unpacker](#)  
-- Built a file archiving utility with encryption/decryption features  
-- Preserved metadata during packing/unpacking process  
-- Designed GUI using Swing for a user-friendly experience  
+### 🔹 **Customised Virtual File System (CVFS)**
+- **Technology:** C Programming, OS Internals
+- **Description:** Simulated key Linux file system operations, including `open`, `read`, `write`, and `delete`, with a custom shell. This project provided a deep understanding of **inodes, file tables, and OS internals**.
+- **GitHub:** [github.com/KartikkxCode/CVFS](https://github.com/KartikkxCode/CVFS)
 
----
+### 🔹 **Generalised Data Structures Library**
+- **Technology:** C++
+- **Description:** Created a reusable, template-based library of linear and non-linear data structures, including stacks, queues, linked lists, and Binary Search Trees (BST), for type-independent data management.
+- **GitHub:** [github.com/KartikkxCode/Generalised_DS](https://github.com/KartikkxCode/Generalised_DS)
 
-### 🔹 Chat Messenger with Log Facility  
-**Technology:** Java, Socket Programming  
-🔗 GitHub: [github.com/KartikkxCode/Chat-Messenger](#)  
-- Implemented peer-to-peer chat with real-time messaging  
-- Maintained logs with timestamps for auditing  
-- Applied TCP/IP socket programming concepts  
-
----
-
-### 🔹 Customised Virtual File System (CVFS)  
-**Technology:** C Programming, OS Internals  
-🔗 GitHub: [github.com/KartikkxCode/CVFS](#)  
-- Simulated Linux-like file system operations with a custom shell  
-- Implemented system calls (`open`, `read`, `write`, `lseek`, `delete`)  
-- Gained in-depth understanding of **inodes, file tables, and OS internals**  
+### 🔹 **Secure File Transfer Simulation**
+- **Technology:** C, Win32 SDK, DLL, Cryptography
+- **Description:** Implemented secure file transfer with **Caesar and XOR cipher** encryption/decryption. The logic was modularized into a DLL for reusability and scalability.
+- **GitHub:** [github.com/KartikkxCode/File_Transfer_Simulation](https://github.com/KartikkxCode/File_Transfer_Simulation)
 
 ---
 
-### 🔹 Generalised Data Structures Library  
-**Technology:** C++  
-🔗 GitHub: [github.com/KartikkxCode/Generalised_DS](#)  
-- Developed a reusable library of linear & non-linear data structures  
-- Implemented **stacks, queues, linked lists, BST, searching & sorting**  
-- Designed with templates for **data type independence**  
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Frameworks & Tools:** Spring Boot, REST APIs, Git
+- **Databases:** MySQL, MongoDB
+- **Concepts:** AI, Automation, Data Structures & Algorithms, OS Internals, OOP, Cloud Computing
 
 ---
 
-### 🔹 Marvellous Study Tracker App  
-**Technology:** Java  
-🔗 GitHub: [github.com/KartikkxCode/Study_Tracker](#)  
-- Console-based tracker for study activities  
-- Exported logs to CSV using Java I/O APIs  
-- Implemented with **Collections (ArrayList, TreeMap) and OOP principles**  
+## 🌐 Connect With Me
 
----
+<div align="center">
+  <a href="https://github.com/KartikkxCode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kartik-dahale-422462231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:kartikdahale067@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
-### 🔹 Secure File Transfer Simulation  
-**Technology:** C, Win32 SDK, DLL, Cryptography  
-🔗 GitHub: [github.com/KartikkxCode/File_Transfer_Simulation](#)  
-- Implemented **Caesar & XOR cipher** encryption/decryption  
-- Used Windows system calls (`CreateFile`, `ReadFile`) for file I/O  
-- Modularized logic into DLL for **reusability and scalability**  
-
----
-
-## 🛠️ Tech Stack  
-
-- **Languages:** C, C++, Java, Python, JavaScript  
-- **Frameworks & Tools:** Spring Boot  
-- **Databases:** MySQL, MongoDB  
-- **Other Interests:** AI, Automation, Trading Bots, Image & Video Processing  
-
----
-
-## 🌐 Connect With Me  
-
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-dahale-422462231"><img src="https://img.shields.io/badge/-Kartik%20Dahale-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:kartikdahale067@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <em>“Code + Creativity = Real Solutions”</em>
 </p>
-
----
-
-⭐️ *“Code + Creativity = Real Solutions”*  
