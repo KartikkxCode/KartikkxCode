@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-dahale-422462231"><img src="https://img.shields.io/badge/-Kartik%20Dahale-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:kartik.dahale@example.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kartikdahale067@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
