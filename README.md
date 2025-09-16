@@ -1,9 +1,30 @@
 <div align="center">
   <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="100"/>
-  <h1>👋 Hi, I'm Kartik Anilrao Dahale</h1>
-  <p>
-    💻 Software Developer | ⚡ AI & Automation Enthusiast | 🌐 Full-Stack Learner
-  </p>
+  <h1 align="center" style="
+  font-family: 'Poppins', sans-serif;
+  font-size: 3em;
+  background: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  margin: 20px 0;
+">
+  👋 Hi, I'm Kartik Anilrao Dahale
+</h1>
+
+<p align="center" style="
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
+  color: #EAEAEA;
+  background: #111111;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-weight: 500;
+">
+  💻 Software Developer &nbsp;|&nbsp; ⚡ AI & Automation Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner
+</p>
+
 </div>
 
 ---
