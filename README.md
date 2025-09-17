@@ -1,38 +1,25 @@
 <div align="center">
 
   <!-- Profile Logo -->
-  <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="120" alt="Profile Logo"/>
+  <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="140" alt="Profile Logo"/>
 
-  <!-- Name -->
-  <h1 align="center" style="font-size: 3em; font-weight: 900; color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    👋 Hey there, I'm <span style="color:#e67e22;">Kartik Anilrao Dahale</span>
+  <!-- Name with Gradient -->
+  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 2.9em; background: linear-gradient(90deg, #ff6f61, #ffcc70); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    👋 Hi, I'm Kartik Anilrao Dahale
   </h1>
 
-  <!-- Tagline -->
+  <!-- Animated Tagline -->
   <p align="center">
-    <span style="
-      font-size: 1.3em;
-      color: #2c3e50;
-      background: linear-gradient(135deg, #f5f7fa, #e2ebf0);
-      padding: 10px 20px;
-      border-radius: 12px;
-      font-family: Verdana, Geneva, sans-serif;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.12);
-    ">
-      💻 Software Developer &nbsp;|&nbsp; ⚡ AI & Automation Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner
-    </span>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2c3e50&center=true&vCenter=true&width=600&lines=💻+Software+Developer;⚡+AI+%26+Automation+Enthusiast;🌐+Full-Stack+Learner" alt="Typing SVG"/>
   </p>
 
-  <br>
-
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://github.com/KartikkxCode" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/kartik-dahale-422462231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:kartikdahale067@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Social Icons -->
+  <p>
+    <a href="https://github.com/KartikkxCode"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+    <a href="https://www.linkedin.com/in/kartik-dahale-422462231"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+    <a href="mailto:kartikdahale067@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   </p>
 
-  <br>
 </div>
 
 ---
