@@ -46,39 +46,94 @@
 
 ---
 
-## 🧑‍💻 Tech Stack & Tools
+## 🧑‍💻 Tech Stack & Tools  
 
 <div align="center">
 
-### 💡 Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>
+      <b>C</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br>
+      <b>C++</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ Frameworks & Tools  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br>
+      <b>Spring Boot</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="48" height="48" alt="REST APIs"/><br>
+      <b>REST APIs</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br>
+      <b>GitHub</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br>
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br>
+      <b>MongoDB</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Concepts & Interests  
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Automation](https://img.shields.io/badge/-Automation-0088CC?style=for-the-badge&logo=robotframework&logoColor=white) 
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="AI"/><br>
+      <b>Artificial Intelligence</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png" width="48" height="48" alt="Automation"/><br>
+      <b>Automation</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="Cloud"/><br>
+      <b>Cloud Computing</b>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 ---
