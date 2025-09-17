@@ -1,75 +1,47 @@
 <div align="center">
 
+  <!-- Animated Typing Name -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F77F00&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Kartik+Anilrao+Dahale;💻+Software+Developer;⚡+AI+%26+Automation+Enthusiast;🌐+Full-Stack+Learner)](https://git.io/typing-svg)
+
   <!-- Profile Logo -->
   <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="120" alt="Profile Logo"/>
 
-  <!-- Name -->
-  <h1 align="center" style="font-size: 3em; font-weight: 900; color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    👋 Hey there, I'm <span style="color:#e67e22;">Kartik Anilrao Dahale</span>
-  </h1>
-
-  <!-- Tagline -->
+  <!-- Cool Tagline -->
   <p align="center">
-    <span style="
-      font-size: 1.3em;
-      color: #2c3e50;
-      background: linear-gradient(135deg, #f5f7fa, #e2ebf0);
-      padding: 10px 20px;
-      border-radius: 12px;
-      font-family: Verdana, Geneva, sans-serif;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.12);
-    ">
-      💻 Software Developer &nbsp;|&nbsp; ⚡ AI & Automation Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner
-    </span>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=500&color=0E76A8&center=true&vCenter=true&width=550&lines=🚀+Coding+.+Creating+.+Innovating;✨+Turning+Ideas+into+Code;🔥+Gen-Z+Developer+Mindset"/>
   </p>
 
-  <br>
-
-  <!-- Social Links -->
+  <!-- Socials -->
   <p align="center">
-    <a href="https://github.com/KartikkxCode" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/kartik-dahale-422462231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:kartikdahale067@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/KartikkxCode"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/kartik-dahale-422462231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:kartikdahale067@gmail.com"><img src="https://img.shields.io/badge/Gmail-d93025?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
-
-  <br>
 </div>
 
 ---
 
 ## 🚀 About Me  
 
-- 👨‍💻 Passionate **Software Developer** exploring **AI, Automation & Full-Stack Engineering**.  
-- 🌱 Currently learning **Machine Learning | Cloud | Scalable Architectures**.  
-- 🎓 Pursuing **M.Sc. Computer Science** at *Suryadatta College, Pune University*.  
-- 🛠 I love turning **ideas into code** and **code into impactful solutions**.  
+✨ Passionate about **building cool stuff with code**.  
+🌱 Currently vibing with **AI, Automation, and Full-Stack projects**.  
+🎓 Doing my **M.Sc. Computer Science** at *Suryadatta College, Pune University*.  
+⚡ Motto: *"Stay curious. Stay coding."*  
 
 ---
 
-## 🧑‍💻 Tech Stack & Tools  
+## 🛠 Tech Stack  
 
 <div align="center">
 
-### 💡 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-e76f00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Frameworks & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-ff6f00?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ AI | Cloud | Automation
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f7931e?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-2e86de?style=for-the-badge&logo=robotframework&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
@@ -78,34 +50,26 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 [EduTrack – Classroom & Student Management Portal](https://github.com/KartikkxCode/edutrack-portal)  
-📌 **Tech:** Java, Spring Boot, MongoDB, REST APIs  
-📝 A full-stack system for managing batches, student records & APIs.  
+💡 **[EduTrack – Student Management Portal](https://github.com/KartikkxCode/edutrack-portal)** – Java, Spring Boot, MongoDB  
+🛠️ Full-stack system to manage students & batches with REST APIs.  
 
-### 🔹 [File Packer & Unpacker with Encryption](https://github.com/KartikkxCode/File-Packer-Unpacker)  
-📌 **Tech:** Java, Encryption, Swing  
-📝 Secure file archiving with encryption, decryption & metadata handling.  
+💡 **[File Packer & Unpacker](https://github.com/KartikkxCode/File-Packer-Unpacker)** – Java, Swing, Encryption  
+🛠️ File archiving utility with encryption & decryption.  
 
-### 🔹 [Customised Virtual File System (CVFS)](https://github.com/KartikkxCode/CVFS)  
-📌 **Tech:** C, OS Internals  
-📝 Simulation of Linux FS commands with inode, file tables & shell.  
-
-### 🔹 [Generalised Data Structures Library](https://github.com/KartikkxCode/Generalised_DS)  
-📌 **Tech:** C++  
-📝 Template-based reusable library for **stacks, queues, lists & BST**.  
-
-### 🔹 [Secure File Transfer Simulation](https://github.com/KartikkxCode/File_Transfer_Simulation)  
-📌 **Tech:** C, Win32 SDK, DLL, Cryptography  
-📝 Secure file transfer with Caesar/XOR cipher & modular DLL support.  
+💡 **[Customised Virtual File System (CVFS)](https://github.com/KartikkxCode/CVFS)** – C, OS Internals  
+🛠️ Simulated Linux FS commands with inodes, file tables & shell.  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Vibes  
 
 <div align="center">
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikkxCode&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikkxCode&layout=compact&theme=tokyonight&hide_border=true)
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikkxCode&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikkxCode&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KartikkxCode&theme=radical&hide_border=true)  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikkxCode&bg_color=0f2027&color=00ffcc&line=ff6f61&point=f1f1f1&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -114,5 +78,5 @@
 ## 🌟 Quote  
 
 <p align="center">
-  <em>✨ “Code + Creativity = Real Solutions” ✨</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=✨+Code+%2B+Creativity+=+Real+Solutions+✨;🔥+Build+what+inspires+you+🔥"/>
 </p>
