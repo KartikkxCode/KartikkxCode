@@ -4,85 +4,116 @@
   <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="120" alt="Profile Logo"/>
 
   <!-- Name -->
-  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 2.8em; color: #222;">
-    👋 Hi, I'm <span style="color:#ff6f61;">Kartik Anilrao Dahale</span>
+  <h1 align="center" style="font-size: 3em; font-weight: 900; color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    👋 Hey there, I'm <span style="color:#e67e22;">Kartik Anilrao Dahale</span>
   </h1>
 
   <!-- Tagline -->
-  <h3 style="font-family: 'Fira Code', monospace; color: #555; font-weight: 500;">
-    💻 Software Developer | ⚡ AI & Automation Enthusiast | 🌐 Full-Stack Learner
-  </h3>
-
-  <!-- Socials -->
-  <p>
-    <a href="https://github.com/KartikkxCode"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-    <a href="https://www.linkedin.com/in/kartik-dahale-422462231"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-    <a href="mailto:kartikdahale067@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <p align="center">
+    <span style="
+      font-size: 1.3em;
+      color: #2c3e50;
+      background: linear-gradient(135deg, #f5f7fa, #e2ebf0);
+      padding: 10px 20px;
+      border-radius: 12px;
+      font-family: Verdana, Geneva, sans-serif;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+    ">
+      💻 Software Developer &nbsp;|&nbsp; ⚡ AI & Automation Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner
+    </span>
   </p>
 
+  <br>
+
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://github.com/KartikkxCode" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/kartik-dahale-422462231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:kartikdahale067@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+
+  <br>
 </div>
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 **M.Sc. Computer Science** @ *Suryadatta College, Pune University*  
-- 🌱 Exploring **Machine Learning | Cloud | Scalable Systems**  
-- 🛠️ Building projects in **Java, Python, and Full-Stack**  
-- ⚡ Motto: *“Code smart. Create impact.”*  
+- 👨‍💻 Passionate **Software Developer** exploring **AI, Automation & Full-Stack Engineering**.  
+- 🌱 Currently learning **Machine Learning | Cloud | Scalable Architectures**.  
+- 🎓 Pursuing **M.Sc. Computer Science** at *Suryadatta College, Pune University*.  
+- 🛠 I love turning **ideas into code** and **code into impactful solutions**.  
 
 ---
 
-## 🛠 Tech Stack  
+## 🧑‍💻 Tech Stack & Tools  
 
 <div align="center">
 
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Git](https://skillicons.dev/icons?i=git)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![AWS](https://skillicons.dev/icons?i=aws)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+### 💡 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-ff6f00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ AI | Cloud | Automation
+![TensorFlow](https://img.shields.io/badge/TensorFlow-f7931e?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-2e86de?style=for-the-badge&logo=robotframework&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Projects Highlight  
+## 📌 Featured Projects  
 
-🔹 **[EduTrack Portal](https://github.com/KartikkxCode/edutrack-portal)**  
-*Java, Spring Boot, MongoDB* – Student & classroom management system.  
+### 🔹 [EduTrack – Classroom & Student Management Portal](https://github.com/KartikkxCode/edutrack-portal)  
+📌 **Tech:** Java, Spring Boot, MongoDB, REST APIs  
+📝 A full-stack system for managing batches, student records & APIs.  
 
-🔹 **[File Packer & Unpacker](https://github.com/KartikkxCode/File-Packer-Unpacker)**  
-*Java, Swing, Encryption* – Secure file archiving with encryption.  
+### 🔹 [File Packer & Unpacker with Encryption](https://github.com/KartikkxCode/File-Packer-Unpacker)  
+📌 **Tech:** Java, Encryption, Swing  
+📝 Secure file archiving with encryption, decryption & metadata handling.  
 
-🔹 **[Customised Virtual File System (CVFS)](https://github.com/KartikkxCode/CVFS)**  
-*C, OS Internals* – Simulation of Linux FS commands.  
+### 🔹 [Customised Virtual File System (CVFS)](https://github.com/KartikkxCode/CVFS)  
+📌 **Tech:** C, OS Internals  
+📝 Simulation of Linux FS commands with inode, file tables & shell.  
 
-🔹 **[Generalised DS Library](https://github.com/KartikkxCode/Generalised_DS)**  
-*C++* – Template-based reusable data structure library.  
+### 🔹 [Generalised Data Structures Library](https://github.com/KartikkxCode/Generalised_DS)  
+📌 **Tech:** C++  
+📝 Template-based reusable library for **stacks, queues, lists & BST**.  
+
+### 🔹 [Secure File Transfer Simulation](https://github.com/KartikkxCode/File_Transfer_Simulation)  
+📌 **Tech:** C, Win32 SDK, DLL, Cryptography  
+📝 Secure file transfer with Caesar/XOR cipher & modular DLL support.  
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Stats  
 
 <div align="center">
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikkxCode&show_icons=true&theme=modern&hide_border=true&title_color=ff6f61&icon_color=ff6f61)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikkxCode&layout=compact&theme=modern&hide_border=true&title_color=ff6f61)  
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikkxCode&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikkxCode&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## ✨ Quote  
+## 🌟 Quote  
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 1.2em; color: #444;">
-  “Code + Creativity = Real Solutions”
+<p align="center">
+  <em>✨ “Code + Creativity = Real Solutions” ✨</em>
 </p>
 
