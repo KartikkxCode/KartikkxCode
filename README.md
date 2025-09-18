@@ -81,10 +81,6 @@
 📌 **Tech:** C++  
 📝 Template-based reusable library for **stacks, queues, lists & BST**.  
 
-### 🔹 [Secure File Transfer Simulation](https://github.com/KartikkxCode/File_Transfer_Simulation)  
-📌 **Tech:** C, Win32 SDK, DLL, Cryptography  
-📝 Secure file transfer with Caesar/XOR cipher & modular DLL support.  
-
 ---
 
 ## 📊 GitHub Stats  
