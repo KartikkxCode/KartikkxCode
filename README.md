@@ -1,21 +1,10 @@
 <div align="center">
 
   <!-- Profile Logo -->
-  <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="140" alt="Profile Logo"/>
+  <p align="center">
+  <img src="assets/header.svg" alt="Hi, I'm Kartik Anilrao Dahale" width="900"/>
+</p>
 
-  <!-- Name with Gradient -->
-  <h1 style="
-  font-family: 'Space Grotesk', 'Fira Code', monospace;
-  font-weight: 800;
-  font-size: 3em;
-  letter-spacing: 1.5px;
-  background: linear-gradient(90deg, #ff6f61, #ff758c, #9d50bb, #00c6ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0px 0px 8px rgba(255, 105, 180, 0.6);
-">
-  👋 Hi, I'm Kartik Anilrao Dahale
-</h1>
 
 
   <!-- Animated Tagline -->
