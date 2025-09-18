@@ -2,8 +2,9 @@
 
   <!-- Profile Logo -->
   <p align="center">
-  <img src="KartikkxCode/header.svg" alt="Hi, I'm Kartik Anilrao Dahale" width="900"/>
+  <img src="https://github.com/KartikkxCode/KartikkxCode/bappa.png" width="900" alt="Bappa Logo"/>
 </p>
+
 
 
 
