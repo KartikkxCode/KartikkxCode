@@ -2,7 +2,7 @@
 
   <!-- Profile Logo -->
   <p align="center">
-  <img src="https://github.com/KartikkxCode/KartikkxCode/raw/main/bappa.png" width="200" alt="Profile Logo"/>
+  <img src="https://github.com/KartikkxCode/KartikkxCode/raw/main/bappa.png" width="100" alt="Profile Logo"/>
 </p>
 
 
