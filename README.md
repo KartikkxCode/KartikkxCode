@@ -4,9 +4,19 @@
   <img src="https://github.com/KartikkxCode/KartikkxCode/blob/main/bappa.png" width="140" alt="Profile Logo"/>
 
   <!-- Name with Gradient -->
-  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 2.9em; background: linear-gradient(90deg, #ff6f61, #ffcc70); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    👋 Hi, I'm Kartik Anilrao Dahale
-  </h1>
+  <h1 style="
+  font-family: 'Space Grotesk', 'Fira Code', monospace;
+  font-weight: 800;
+  font-size: 3em;
+  letter-spacing: 1.5px;
+  background: linear-gradient(90deg, #ff6f61, #ff758c, #9d50bb, #00c6ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 0px 8px rgba(255, 105, 180, 0.6);
+">
+  👋 Hi, I'm Kartik Anilrao Dahale
+</h1>
+
 
   <!-- Animated Tagline -->
   <p align="center">
