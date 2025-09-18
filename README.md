@@ -83,7 +83,11 @@
 
 ### 🔹 [Generalised Data Structures Library](https://github.com/KartikkxCode/Generalised_DS)  
 📌 **Tech:** C++  
-📝 Template-based reusable library for **stacks, queues, lists & BST**.  
+📝 Template-based reusable library for **stacks, queues, lists & BST**.
+
+### 🔹 [Chat-Messenger-with-Log-Facility](https://github.com/KartikkxCode/Chat-Messenger-with-Log-Facility)  
+📌 **Tech:** Java  
+📝 This project is a **Java-based peer-to-peer chat application**. 
 
 ---
 
