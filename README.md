@@ -2,11 +2,15 @@
 
   <!-- Profile Logo -->
   <p align="center">
-  <img src="https://github.com/KartikkxCode/KartikkxCode/bappa.png" width="900" alt="Bappa Logo"/>
+  <img src="https://github.com/KartikkxCode/KartikkxCode/raw/main/bappa.png" width="200" alt="Profile Logo"/>
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/KartikkxCode/KartikkxCode/raw/main/header.svg" alt="Hi, I'm Kartik Anilrao Dahale" width="900"/>
+</p>
 
+---
 
   <!-- Animated Tagline -->
   <p align="center">
