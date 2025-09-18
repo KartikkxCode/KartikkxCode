@@ -2,7 +2,7 @@
 
   <!-- Profile Logo -->
   <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Kartik Anilrao Dahale" width="900"/>
+  <img src="KartikkxCode/header.svg" alt="Hi, I'm Kartik Anilrao Dahale" width="900"/>
 </p>
 
 
